@@ -11,6 +11,7 @@ function App() {
     <>
       <Nav></Nav>
       <h1>Vite + React</h1>
+      <p>aggiungo testo</p>
 
     </>
   )
